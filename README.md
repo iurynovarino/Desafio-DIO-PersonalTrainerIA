@@ -123,3 +123,91 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+Como um personal trainer criaria um plano de treinamento com base nas seguintes instruções:
+
+biotipo corporal ectomorfo que é corpo mais magro, difícil ganhar peso e massa muscular;
+frequência de treinamento será 3 vezes por semana;
+escolher exercícios que trabalhem o cardio, pois quero melhorar a resistência cardiovascular tendo como objetivo praticar atividade física regularmente com isso espero melhorar a minha saúde. Gostaria que esse plano seja criado para a pratica de um desses exercícios: corrida, ciclismo ou pular corda; Escolha de acordo com o exercício que tenha o melhor desempenho. 
+
+## 🎯 Saída do Prompt em resposta ao prompt acima
+
+Plano de Treinamento para Ectomorfo Focado em Cardio
+Análise do Perfil:
+
+Biotipo: Ectomorfo, com dificuldade em ganhar massa muscular.
+Objetivo: Melhorar a resistência cardiovascular e praticar atividade física regularmente.
+Frequência: 3 vezes por semana.
+Considerações:
+
+Prioridade: O foco principal será o desenvolvimento da resistência cardiovascular, considerando a dificuldade do ectomorfo em ganhar massa muscular.
+Intensidade: Os treinos serão progressivamente mais intensos ao longo das semanas, buscando adaptar o corpo aos estímulos.
+Variedade: A variação dos exercícios e da intensidade é fundamental para evitar platôs e manter a motivação.
+Nutrição: Uma dieta equilibrada e rica em nutrientes é essencial para o bom desempenho e recuperação muscular, mesmo com o foco em cardio.
+Escolha do Exercício:
+
+Considerando o objetivo de melhorar a resistência cardiovascular e a praticidade, a corrida se mostra como a melhor opção. Ela permite uma progressão gradual da intensidade e pode ser realizada em diversos locais.
+
+Plano de Treinamento (8 semanas):
+<table>
+  <tr>
+    <th>Semana</th>	
+    <th>Dia 1</th>		
+    <th>Dia 2</th>		
+    <th>Dia 3</th>		
+    <th>Observações
+  </tr>
+  <tr> 
+    <td>1-2</td>	
+    <td>Corrida leve (30 min)</td>
+    <td>Descanso</td>	
+    <td>Corrida leve (30 min)</td>	
+    <td>Foco na adaptação e técnica.</td>
+  </tr> 
+  <tr> 
+    <td>3-4</td>
+    <td>Corrida leve (35 min)</td>	
+    <td>Descanso</td>	
+    <td>Corrida intervalada (4x4 min rápido/2 min lento)</td>	
+    <td>Introdução de intervalos para aumentar a intensidade.</td>
+  </tr>
+  <tr>  
+    <td>5-6</td>
+    <td>Corrida leve (40 min)</td>	
+    <td>Descanso</td>	
+    <td>Corrida longa (50 min)</td>	
+    <td>Aumento da duração para melhorar a resistência.</td>
+  </tr>
+  <tr>    
+    <td>7-8</td>
+    <td>Corrida intervalada (6x4 min rápido/2 min lento)</td>
+    <td>Descanso</td>	
+    <td>Corrida longa (60 min)</td>	
+    <td>Maior intensidade e duração nos intervalos e na corrida longa.</td>
+  </tr>    
+</table>
+
+Dicas Adicionais:
+
+Aquecimento: Sempre inicie os treinos com 5-10 minutos de alongamento dinâmico e um leve trote.
+Resfriamento: Finalize com 5-10 minutos de alongamento estático.
+Hidratação: Beba bastante água antes, durante e após os treinos.
+Nutrição: Consulte um nutricionista para um plano alimentar personalizado.
+Variação: Após 8 semanas, é recomendado variar os treinos, incluindo outras atividades como natação ou ciclismo, para evitar a monotonia e continuar desafiando o corpo.
+Acompanhamento: Consulte um profissional de educação física para um acompanhamento individualizado e ajuste do plano de acordo com seus resultados e progressos.
+Importante: Este é um plano geral e pode ser adaptado às suas necessidades e preferências. É fundamental ouvir seu corpo e ajustar a intensidade e duração dos treinos conforme necessário.
+
+Observações:
+
+Ectomorfos e ganho de massa: Mesmo com foco em cardio, é possível estimular o ganho de massa magra através de uma dieta adequada e exercícios de força em baixa intensidade. Consulte um profissional para um programa de treinamento completo.
+Evolução: A evolução é gradual e individual. Seja paciente e celebre cada pequena conquista.
+Lembre-se: O mais importante é manter a regularidade nos treinos e buscar o prazer na atividade física. Com dedicação e acompanhamento profissional, você alcançará seus objetivos e terá uma vida mais saudável.
+
+Gostaria de personalizar ainda mais este plano? Posso te ajudar a ajustar a intensidade, duração e frequência dos treinos de acordo com suas necessidades e objetivos.
+
+##  Considerações finais
+
+Utilizei a técnica de prompt "solicitação de poucos disparos" para melhorar a resposta do modelo de inteligencia artificial como 
+
+
+
+
