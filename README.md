@@ -128,6 +128,7 @@ Como um personal trainer criaria um plano de treinamento com base nas seguintes 
 biotipo corporal ectomorfo que é corpo mais magro, difícil ganhar peso e massa muscular;
 frequência de treinamento será 3 vezes por semana;
 escolher exercícios que trabalhem o cardio, pois quero melhorar a resistência cardiovascular tendo como objetivo praticar atividade física regularmente com isso espero melhorar a minha saúde. Gostaria que esse plano seja criado para a pratica de um desses exercícios: corrida, ciclismo ou pular corda; Escolha de acordo com o exercício que tenha o melhor desempenho. 
+Justifique a sua resposta.
 
 ## 🎯 Saída do Prompt em resposta ao prompt acima
 
@@ -202,11 +203,25 @@ Ectomorfos e ganho de massa: Mesmo com foco em cardio, é possível estimular o 
 Evolução: A evolução é gradual e individual. Seja paciente e celebre cada pequena conquista.
 Lembre-se: O mais importante é manter a regularidade nos treinos e buscar o prazer na atividade física. Com dedicação e acompanhamento profissional, você alcançará seus objetivos e terá uma vida mais saudável.
 
+Por que a Corrida Foi Escolhida para o Plano de Treinamento. A escolha do exercício ideal para um plano de treinamento depende de diversos fatores, e a corrida foi selecionada para este caso específico por alguns motivos:
+
+Acessibilidade: A corrida exige poucos equipamentos (apenas um bom par de tênis) e pode ser praticada em diversos locais, como parques, ruas ou esteiras. Isso facilita a adesão ao treino.
+Impacto cardiovascular: A corrida é um exercício de alto impacto que trabalha praticamente todos os grupos musculares e promove um excelente condicionamento cardiovascular.
+Progressão gradual: É possível ajustar a intensidade e a duração da corrida de forma gradual, permitindo que o indivíduo se adapte ao exercício e evite lesões.
+Queima calórica: A corrida é um excelente exercício para quem busca queimar calorias e controlar o peso.
+Por que não o ciclismo ou pular corda?
+
+Ciclismo: Embora o ciclismo seja um excelente exercício cardiovascular, ele oferece um impacto menor nas articulações em comparação com a corrida. Para quem busca um treino mais intenso e que trabalhe mais grupos musculares, a corrida pode ser mais indicada. Além disso, a disponibilidade de uma bicicleta pode ser um fator limitante.
+Pular corda: Pular corda é um exercício de alta intensidade que trabalha a coordenação motora e a resistência cardiovascular. No entanto, exige um bom condicionamento físico e pode ser mais impactante para as articulações, especialmente para iniciantes.
+Em resumo, a corrida foi escolhida por oferecer um bom equilíbrio entre acessibilidade, intensidade e benefícios para a saúde cardiovascular. No entanto, é importante ressaltar que a escolha do exercício ideal deve ser individualizada e pode variar de acordo com as preferências e necessidades de cada pessoa.
+
+Gostaria de explorar outras opções de treino? Podemos adaptar o plano para incluir o ciclismo ou pular corda, ou até mesmo uma combinação de exercícios.
+
 Gostaria de personalizar ainda mais este plano? Posso te ajudar a ajustar a intensidade, duração e frequência dos treinos de acordo com suas necessidades e objetivos.
 
 ##  Considerações finais
 
-Utilizei a técnica de prompt "solicitação de poucos disparos" para melhorar a resposta do modelo de inteligencia artificial como 
+Utilizei a técnica de prompt "solicitação de poucos disparos" para melhorar a resposta do modelo de inteligencia artificial como explicar o que é um ectoformo, adicionei detalhes referentes ao meu objetivo em fazer atividade física para a IA ser capaz de determinar se o exercício é para emagrecimento, hipertrofia e etc. E para tornar a resposta mais específica determinei um conjunto exato de atividades para a IA determinar qual seria a melhor atividade física a ser praticada. 
 
 
 
